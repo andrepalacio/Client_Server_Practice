@@ -1,4 +1,4 @@
-# Project Title
+# Client-Server Practice
 
 This project is quick practice about creating a client-server model using C#.
 It uses sockets to communicate using the method TCP.
